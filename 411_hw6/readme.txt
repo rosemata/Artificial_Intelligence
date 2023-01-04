@@ -1,0 +1,11 @@
+Misplaced Tiles
+
+> python3 main.py
+> 1 0 2 4 5 7 3 8 9 6 11 12 13 10 14 15
+> 1
+
+or Manhattan distance
+
+> python3 main.py
+> 1 0 2 4 5 7 3 8 9 6 11 12 13 10 14 15
+> 2
